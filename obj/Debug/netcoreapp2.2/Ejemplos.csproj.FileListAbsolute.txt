@@ -1,0 +1,11 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\bin\Debug\netcoreapp2.2\Ejemplos.deps.json
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\bin\Debug\netcoreapp2.2\Ejemplos.runtimeconfig.json
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\bin\Debug\netcoreapp2.2\Ejemplos.runtimeconfig.dev.json
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\bin\Debug\netcoreapp2.2\Ejemplos.dll
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\bin\Debug\netcoreapp2.2\Ejemplos.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\obj\Debug\netcoreapp2.2\Ejemplos.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\obj\Debug\netcoreapp2.2\Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\obj\Debug\netcoreapp2.2\Ejemplos.AssemblyInfoInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\obj\Debug\netcoreapp2.2\Ejemplos.AssemblyInfo.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\obj\Debug\netcoreapp2.2\Ejemplos.dll
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Ejemplos\obj\Debug\netcoreapp2.2\Ejemplos.pdb
